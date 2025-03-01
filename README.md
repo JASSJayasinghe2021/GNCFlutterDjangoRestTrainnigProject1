@@ -1,1 +1,1 @@
-# GNCFlutterDjangoRestTrainnigProject1
+# GNC Flutter DjangoRest Trainnig Project1
